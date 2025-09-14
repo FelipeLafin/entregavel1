@@ -6,7 +6,7 @@
 - Ana Karolina
 
 ## Repositório Github
-[Link para o repositório](https://github.com/SEU_USUARIO/SEU_PROJETO)  
+[Link para o repositório](https://github.com/FelipeLafin/entregavel1)  
 
 ---
 
@@ -19,7 +19,7 @@ Trabalho de Computação que permite identificar objetos numa imagem e destaca-l
 **Como Rodar:**  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_PROJETO.git
+   git clone https://github.com/FelipeLafin/entregavel1.git
    ```  
 2. Entre na pasta do projeto:  
    ```bash
