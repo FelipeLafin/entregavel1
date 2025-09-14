@@ -50,3 +50,7 @@ Trabalho de Computação que permite identificar objetos numa imagem e destaca-l
 - Certifique-se de ter o Python 3.13+ instalado.
 - Certifique-se de colocar o caminho correto das imagens caso mude
 - É de extrema importancia que siga estes passos para a execução correta do projeto!
+
+## Melhorias Futuras:
+
+- Nem ideia
