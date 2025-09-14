@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Carrega a imagem
-img = cv2.imread("images\\fruit3.png")
+img = cv2.imread("images\\fruits7.png")
 output = img.copy()
 
 # Converte para HSV
