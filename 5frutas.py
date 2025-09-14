@@ -1,7 +1,7 @@
 import cv2               
 import numpy as np       
 
-img = cv2.imread("images\\fruits5.png")
+img = cv2.imread("images/fruits5.png")
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) #tons de cinza
 
 _, binary = cv2.threshold(gray, 190, 255, cv2.THRESH_BINARY_INV) #converto pra binário (acima de 190 vira preto, abaixo vira branco invertido)
